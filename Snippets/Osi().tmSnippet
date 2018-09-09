@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>si (${1:/*condicion_1*/})
+	${2:/*codigo*/}
+osi (${3:/*Condicion_2*/})
+	${4:/*codigo*/}
+sino
+	${5:/*codigo*/}
+fin</string>
+	<key>name</key>
+	<string>Osi()</string>
+	<key>scope</key>
+	<string>source.latino</string>
+	<key>tabTrigger</key>
+	<string>osi</string>
+	<key>uuid</key>
+	<string>98A1CA4E-172A-4461-B3F3-372AE0F06B6A</string>
+</dict>
+</plist>

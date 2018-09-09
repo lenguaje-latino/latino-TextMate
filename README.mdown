@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.47">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"># Installation</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"># General</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">* [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_</span></p>
+<p class="p1"><span class="s1">* [Commit Styleguide](http://kb.textmate.org/commit_styleguide) — _before you send a pull request_</span></p>
+<p class="p1"><span class="s1">* [Writing Bug Reports](http://kb.textmate.org/writing_bug_reports) — _before you report an issue_</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"># License</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">If not otherwise specified (see below), files in this repository fall under the following license:</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>Permission to copy, use, modify, sell and distribute this</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>software is granted. This software is provided "as is" without</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>express or implied warranty, and with no claim as to its</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>suitability for any purpose.</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">An exception is made for files in readable text which contain their own license information, or files where an accompanying file exists (in the same directory) with a “-license” suffix added to the base-name name of the original file, and an extension of txt, html, or similar. For example “tidy” is accompanied by “tidy-license.txt”.</span></p>
+</body>
+</html>
