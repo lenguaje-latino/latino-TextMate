@@ -2,8 +2,6 @@
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
 # Instalación
-Sintaxis de Latino en TextMate
-
 Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir una vez tengamos el programa abierto:
 
 * Pasaremos a descargar el repositorio de latino.tmbundle
