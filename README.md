@@ -12,33 +12,40 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 * Al final solo pasamos a cambiar el tipo de lenguaje en TextMate y Listo! Ya podremos programar en TextMate con sintaxis de Latino
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-oKzuj5S1gcg/W5XUu8RbS3I/AAAAAAAAEPE/37o8jgVDBa0dpzX5ZsyVLRwEGAyTmjc1ACPcBGAYYCw/s1600/Download_TextMatePluging.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="695" data-original-width="1152" height="385" src="https://3.bp.blogspot.com/-oKzuj5S1gcg/W5XUu8RbS3I/AAAAAAAAEPE/37o8jgVDBa0dpzX5ZsyVLRwEGAyTmjc1ACPcBGAYYCw/s640/Download_TextMatePluging.jpg" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-Q_siHfxxcHk/W5XUuP3c52I/AAAAAAAAEPE/fct6-mYbFmwGzaGmi-4sKCc0e2R1nhXeQCPcBGAYYCw/s1600/Descompresion.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="432" data-original-width="766" height="361" src="https://2.bp.blogspot.com/-Q_siHfxxcHk/W5XUuP3c52I/AAAAAAAAEPE/fct6-mYbFmwGzaGmi-4sKCc0e2R1nhXeQCPcBGAYYCw/s640/Descompresion.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-ZK_fBOrd6xc/W5XUunq3kBI/AAAAAAAAEPU/0jZaD8aUNM0PWOuz3aer132tv74PXht5gCPcBGAYYCw/s1600/Descompresion2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="433" data-original-width="768" height="361" src="https://1.bp.blogspot.com/-ZK_fBOrd6xc/W5XUunq3kBI/AAAAAAAAEPU/0jZaD8aUNM0PWOuz3aer132tv74PXht5gCPcBGAYYCw/s640/Descompresion2.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-XB3CJ4ICnOo/W5XUrxkRZdI/AAAAAAAAEPE/uAjGbPE4ms8qxLc0cqdOpQQ0EB8C8qjcwCPcBGAYYCw/s1600/Cambio%2Bde%2BNombre.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="430" data-original-width="764" height="360" src="https://3.bp.blogspot.com/-XB3CJ4ICnOo/W5XUrxkRZdI/AAAAAAAAEPE/uAjGbPE4ms8qxLc0cqdOpQQ0EB8C8qjcwCPcBGAYYCw/s640/Cambio%2Bde%2BNombre.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-I6ujRL6zNmU/W5XUsGH6FHI/AAAAAAAAEPE/ds1r-mPP7mMPx-WKyg0UKb4FH_xCpWntQCPcBGAYYCw/s1600/Cambio%2Bde%2BNombre2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="763" height="361" src="https://2.bp.blogspot.com/-I6ujRL6zNmU/W5XUsGH6FHI/AAAAAAAAEPE/ds1r-mPP7mMPx-WKyg0UKb4FH_xCpWntQCPcBGAYYCw/s640/Cambio%2Bde%2BNombre2.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-MLcYweiTROM/W5XUuQ1F7sI/AAAAAAAAEPY/slSdijCn7EA4_aR6NRTz2Z3esU_efhhbACPcBGAYYCw/s1600/Bundle.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://2.bp.blogspot.com/-MLcYweiTROM/W5XUuQ1F7sI/AAAAAAAAEPY/slSdijCn7EA4_aR6NRTz2Z3esU_efhhbACPcBGAYYCw/s640/Bundle.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-4sQZQZebPqI/W5XUttrrLwI/AAAAAAAAEPM/O-hzXk3mkGAT6rNyppvrOG1GXahlH_IHgCPcBGAYYCw/s1600/Buscar-tmBundle.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-4sQZQZebPqI/W5XUttrrLwI/AAAAAAAAEPM/O-hzXk3mkGAT6rNyppvrOG1GXahlH_IHgCPcBGAYYCw/s640/Buscar-tmBundle.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-vwOB03sw9QI/W5XUuwAv1xI/AAAAAAAAEPQ/-_KXw-ecoMQ-NCVer4kyrU12ZEo7gdYzQCPcBGAYYCw/s1600/Install.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="455" data-original-width="700" height="416" src="https://1.bp.blogspot.com/-vwOB03sw9QI/W5XUuwAv1xI/AAAAAAAAEPQ/-_KXw-ecoMQ-NCVer4kyrU12ZEo7gdYzQCPcBGAYYCw/s640/Install.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-wkPwJFPO08k/W5XUwtnCH9I/AAAAAAAAEPQ/5CrdtYMH3y8rThz-OtkVSBK-ROVv6htwQCPcBGAYYCw/s1600/Install2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="399" src="https://3.bp.blogspot.com/-wkPwJFPO08k/W5XUwtnCH9I/AAAAAAAAEPQ/5CrdtYMH3y8rThz-OtkVSBK-ROVv6htwQCPcBGAYYCw/s640/Install2.png" width="640" /></a></div>
-<br />
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-lRFRGucgbiU/W5XUxyCVuhI/AAAAAAAAEPQ/i5EKDx8u7kEYa3WfA2JguNnssaqwUJKRQCPcBGAYYCw/s1600/cambio.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="394" src="https://2.bp.blogspot.com/-lRFRGucgbiU/W5XUxyCVuhI/AAAAAAAAEPQ/i5EKDx8u7kEYa3WfA2JguNnssaqwUJKRQCPcBGAYYCw/s640/cambio.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-hhgUimFc0yQ/W5XUu0kLe2I/AAAAAAAAEPM/KRYXA0GFkxkvREIQzWq4n0I4Ql1oACE4ACPcBGAYYCw/s1600/Cambio2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://3.bp.blogspot.com/-hhgUimFc0yQ/W5XUu0kLe2I/AAAAAAAAEPM/KRYXA0GFkxkvREIQzWq4n0I4Ql1oACE4ACPcBGAYYCw/s640/Cambio2.png" width="640" /></a></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-uXU6g-UsDuw/W5XUx5vt4CI/AAAAAAAAEPU/3cFcygB504oU4ZB4P-Cm61BVQB8JUvO5ACPcBGAYYCw/s1600/listo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-uXU6g-UsDuw/W5XUx5vt4CI/AAAAAAAAEPU/3cFcygB504oU4ZB4P-Cm61BVQB8JUvO5ACPcBGAYYCw/s640/listo.png" width="640" /></a></div>
+<img border="0" data-original-height="695" data-original-width="1152" height="385" src="https://3.bp.blogspot.com/-oKzuj5S1gcg/W5XUu8RbS3I/AAAAAAAAEPE/37o8jgVDBa0dpzX5ZsyVLRwEGAyTmjc1ACPcBGAYYCw/s640/Download_TextMatePluging.jpg" width="640" /></div>
 
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="432" data-original-width="766" height="361" src="https://2.bp.blogspot.com/-Q_siHfxxcHk/W5XUuP3c52I/AAAAAAAAEPE/fct6-mYbFmwGzaGmi-4sKCc0e2R1nhXeQCPcBGAYYCw/s640/Descompresion.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="433" data-original-width="768" height="361" src="https://1.bp.blogspot.com/-ZK_fBOrd6xc/W5XUunq3kBI/AAAAAAAAEPU/0jZaD8aUNM0PWOuz3aer132tv74PXht5gCPcBGAYYCw/s640/Descompresion2.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="430" data-original-width="764" height="360" src="https://3.bp.blogspot.com/-XB3CJ4ICnOo/W5XUrxkRZdI/AAAAAAAAEPE/uAjGbPE4ms8qxLc0cqdOpQQ0EB8C8qjcwCPcBGAYYCw/s640/Cambio%2Bde%2BNombre.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="431" data-original-width="763" height="361" src="https://2.bp.blogspot.com/-I6ujRL6zNmU/W5XUsGH6FHI/AAAAAAAAEPE/ds1r-mPP7mMPx-WKyg0UKb4FH_xCpWntQCPcBGAYYCw/s640/Cambio%2Bde%2BNombre2.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://2.bp.blogspot.com/-MLcYweiTROM/W5XUuQ1F7sI/AAAAAAAAEPY/slSdijCn7EA4_aR6NRTz2Z3esU_efhhbACPcBGAYYCw/s640/Bundle.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-4sQZQZebPqI/W5XUttrrLwI/AAAAAAAAEPM/O-hzXk3mkGAT6rNyppvrOG1GXahlH_IHgCPcBGAYYCw/s640/Buscar-tmBundle.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="455" data-original-width="700" height="416" src="https://1.bp.blogspot.com/-vwOB03sw9QI/W5XUuwAv1xI/AAAAAAAAEPQ/-_KXw-ecoMQ-NCVer4kyrU12ZEo7gdYzQCPcBGAYYCw/s640/Install.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="399" src="https://3.bp.blogspot.com/-wkPwJFPO08k/W5XUwtnCH9I/AAAAAAAAEPQ/5CrdtYMH3y8rThz-OtkVSBK-ROVv6htwQCPcBGAYYCw/s640/Install2.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="394" src="https://2.bp.blogspot.com/-lRFRGucgbiU/W5XUxyCVuhI/AAAAAAAAEPQ/i5EKDx8u7kEYa3WfA2JguNnssaqwUJKRQCPcBGAYYCw/s640/cambio.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://3.bp.blogspot.com/-hhgUimFc0yQ/W5XUu0kLe2I/AAAAAAAAEPM/KRYXA0GFkxkvREIQzWq4n0I4Ql1oACE4ACPcBGAYYCw/s640/Cambio2.png" width="640" /></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-uXU6g-UsDuw/W5XUx5vt4CI/AAAAAAAAEPU/3cFcygB504oU4ZB4P-Cm61BVQB8JUvO5ACPcBGAYYCw/s640/listo.png" width="640" /></div>
 
 # General
 
