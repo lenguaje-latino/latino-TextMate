@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>incluir("${1:modulo}")</string>
+	<string>incluir ("${1:modulo}")</string>
 	<key>name</key>
 	<string>Incluir()</string>
 	<key>scope</key>
