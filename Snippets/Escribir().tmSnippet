@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>escribir(${1:/*Sentencia*/})</string>
+	<string>escribir("${1:mensaje}")</string>
 	<key>name</key>
 	<string>Escribir()</string>
 	<key>scope</key>

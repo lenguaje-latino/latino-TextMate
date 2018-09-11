@@ -3,16 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>desde (${1:inicio; condicion; incremento})
+	<string>si ${1:condicion}
 	${0:#codigo}
+sino
+	${1:#codigo}
 fin</string>
 	<key>name</key>
-	<string>Desde()</string>
+	<string>Si no()</string>
 	<key>scope</key>
 	<string>source.latino</string>
 	<key>tabTrigger</key>
-	<string>des</string>
+	<string>sino</string>
 	<key>uuid</key>
-	<string>20D85F58-0B1A-40FA-8226-0D4ED73C49B9</string>
+	<string>52BF8031-E953-429E-8E0F-FE99A405B482</string>
 </dict>
 </plist>
