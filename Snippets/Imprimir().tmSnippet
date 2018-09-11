@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>imprimir("${1:mensaje}")</string>
+	<string>imprimir ("${1:mensaje}")</string>
 	<key>name</key>
 	<string>Imprimir()</string>
 	<key>scope</key>
