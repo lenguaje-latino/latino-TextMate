@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>si ${1:condicion_1}
 	${2:#codigo}
-osi (${3:Condicion_2})
+osi ${3:Condicion_2}
 	${4:#codigo}
 sino
 	${5:#codigo}
