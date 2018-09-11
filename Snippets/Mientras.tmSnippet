@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>mientras (${1:condicion})
+	<string>mientras ${1:condicion}
 	${0:#codigo}
 fin</string>
 	<key>name</key>
