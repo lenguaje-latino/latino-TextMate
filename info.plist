@@ -2,12 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>contactEmailRot13</key>
-	<string>zryiva_threereb@lnubb.pbz</string>
+	<key>contactEmail</key>
+	<string>melvin_guerrero@yahoo.com</string>
 	<key>contactName</key>
 	<string>Melvin Guerrero</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>New shiny bundle (Lenguaje Latino) for TextMate.</string>
 	<key>name</key>
 	<string>Latino</string>
 	<key>uuid</key>
