@@ -47,6 +47,25 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 <div class="separator" style="clear: both; text-align: center;">
 <img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-uXU6g-UsDuw/W5XUx5vt4CI/AAAAAAAAEPU/3cFcygB504oU4ZB4P-Cm61BVQB8JUvO5ACPcBGAYYCw/s640/listo.png" width="640" /></div>
 
+# Fargmentos de código (snippets)
+En TextMate para usar los snippets, escribimos el desencadenador deseado y presionamos TAB.
+
+---
+| Desencadenador | Nombre                                  | codigo                                          |
+|----------------|-----------------------------------------|-------------------------------------------------|
+| si             | si condicional                          | si condicion #codigo fin                        |
+| sino           | si sino condicional                     | si condicion #codigo sino #codigo fin           |
+| osi            | si osi sino condicional                 | si condicion #codigo osi #codigo #sino #codigo  |
+| caso           | caso condicional(Which Case1,case2)     | elegir(sentencia)caso1,caso2,caso3,defento,fin  |
+| mien           | ciclo mientras                          | mientras condition #codigo fin                  |
+| rep            | ciclo repetir                           | repetir #codigo hasta condicion                 |
+| des            | ciclo desde                             | desde ( i = 0; i < 10; i++) #codigo fin         |
+| fun            | funcion                                 | funcion nombre_funcion (argumentos) #codigo fin |
+| ret            | retorno                                 | retorno valor                                   |
+| esc            | escribir                                | escribir("mensaje")                             |
+| imp            | imprimir                                | imprimir("mensaje")                             |
+| inc            | incluir                                 | incluir "modulo"                                |
+
 # General
 
 * [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
