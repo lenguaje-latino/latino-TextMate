@@ -377,9 +377,33 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\+|-|%|#|\*|\/|\^|==?|\!=|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)</string>
+			<string>\+=|-=|\*=|/=|%=|=(?!=)</string>
 			<key>name</key>
-			<string>keyword.operator.latino</string>
+			<string>keyword.operator.assignment.latino</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\+\+|--</string>
+			<key>name</key>
+			<string>keyword.operator.increment-decrement.latino</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\+|-|\*|/|%|\^</string>
+			<key>name</key>
+			<string>keyword.operator.arithmetic.latino</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>==|\!=|~=|&lt;=?|&gt;=?</string>
+			<key>name</key>
+			<string>keyword.operator.comparison.latino</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>(?&lt;!\.)\.{2}(?!\.)</string>
+			<key>name</key>
+			<string>keyword.operator.concatenation.latino</string>
 		</dict>
 		<dict>
 			<key>match</key>
