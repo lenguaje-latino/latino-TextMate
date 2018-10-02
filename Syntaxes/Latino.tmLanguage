@@ -371,12 +371,6 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(\&amp;\&amp;|\|\||\!)\b</string>
-			<key>name</key>
-			<string>keyword.operator.latino</string>
-		</dict>
-		<dict>
-			<key>match</key>
 			<string>\b([A-Za-z_]\w*)\b(?=\s*(?:[({"']|\[\[))</string>
 			<key>name</key>
 			<string>support.function.any-method.latino</string>
@@ -386,6 +380,12 @@
 			<string>\+|-|%|#|\*|\/|\^|==?|\!=|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)</string>
 			<key>name</key>
 			<string>keyword.operator.latino</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\&amp;\&amp;|\|\||\!</string>
+			<key>name</key>
+			<string>keyword.operator.logical.latino</string>
 		</dict>
 	</array>
 	<key>repository</key>
