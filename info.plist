@@ -8,6 +8,25 @@
 	<string>Melvin Guerrero</string>
 	<key>description</key>
 	<string>New shiny bundle (Lenguaje Latino) for TextMate.</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>DEFE9DFE-2F41-4EB5-B7D7-69451F0BB5D5</string>
+			<string>------------------------------------</string>
+			<string>20D85F58-0B1A-40FA-8226-0D4ED73C49B9</string>
+			<string>30B4A894-F1BB-4621-B0A6-1DA409D9C251</string>
+			<string>58F3AEF8-169A-4A15-9E89-F3E208DD38B8</string>
+			<string>E2C26C4F-05DC-418B-B33B-14732AD37168</string>
+			<string>064E9FA2-998B-402F-A8DF-F2D968B32E16</string>
+			<string>EA4894EA-AFEF-4A3A-B739-59790FC8BF25</string>
+			<string>98A1CA4E-172A-4461-B3F3-372AE0F06B6A</string>
+			<string>F17250E5-1636-494B-8DA2-2BE56CA48F19</string>
+			<string>5F7EBD3C-344C-4909-9C0B-282B96FF27DD</string>
+			<string>52BF8031-E953-429E-8E0F-FE99A405B482</string>
+			<string>E4604F34-6C5C-449E-9323-17226D9830E8</string>
+		</array>
+	</dict>
 	<key>name</key>
 	<string>Latino</string>
 	<key>uuid</key>
