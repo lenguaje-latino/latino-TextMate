@@ -240,7 +240,31 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(^[ \t]+)?(?=\/\/)|(?=#)|(?=/\*)</string>
+			<string>/\*</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.begin.latino</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>\*/</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.end.latino</string>
+				</dict>
+			</dict>
+			<key>name</key>
+			<string>comment.block.latino</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>(^[ \t]+)?(?=#)</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>1</key>
@@ -250,44 +274,12 @@
 				</dict>
 			</dict>
 			<key>end</key>
-			<string>(?!\G)([ \t]+\n)?</string>
-			<key>endCaptures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.whitespace.comment.trailing.latino</string>
-				</dict>
-			</dict>
+			<string>(?!\G)</string>
 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>begin</key>
-					<string>/\*</string>
-					<key>beginCaptures</key>
-					<dict>
-						<key>0</key>
-						<dict>
-							<key>name</key>
-							<string>punctuation.definition.comment.begin.latino</string>
-						</dict>
-					</dict>
-					<key>end</key>
-					<string>\*/</string>
-					<key>endCaptures</key>
-					<dict>
-						<key>0</key>
-						<dict>
-							<key>name</key>
-							<string>punctuation.definition.comment.end.latino</string>
-						</dict>
-					</dict>
-					<key>name</key>
-					<string>comment.block.latino</string>
-				</dict>
-				<dict>
-					<key>begin</key>
-					<string>//|#</string>
+					<string>#</string>
 					<key>beginCaptures</key>
 					<dict>
 						<key>0</key>
@@ -299,7 +291,40 @@
 					<key>end</key>
 					<string>\n</string>
 					<key>name</key>
-					<string>comment.line.double-dash.latino</string>
+					<string>comment.line.number-sign.latino</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>(^[ \t]+)?(?=//)</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.whitespace.comment.leading.latino</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>(?!\G)</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>begin</key>
+					<string>//</string>
+					<key>beginCaptures</key>
+					<dict>
+						<key>0</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.definition.comment.latino</string>
+						</dict>
+					</dict>
+					<key>end</key>
+					<string>\n</string>
+					<key>name</key>
+					<string>comment.line.double-slash.latino</string>
 				</dict>
 			</array>
 		</dict>
