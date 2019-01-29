@@ -1,4 +1,4 @@
-# Latino.tmbundle For TextMate
+# Latino For TextMate
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
 # Instalación
