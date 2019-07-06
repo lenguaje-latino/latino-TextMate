@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/bin/bash
+[[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
+
+# run script using either Terminal.app or iTerm.app
+# if iTerm is open or if TM_TERMINAL is set to iTerm then use iTerm
+# otherwise default to Terminal.app since that is standard.
+TP=${TM_TERMINAL:=Terminal}
+TPY=${TM_LATINO:-latino}
+
+esc () {
+STR="$1" ruby18 &lt;&lt;"RUBY"
+	str = ENV['STR']
+	str = str.gsub(/'/, "'\\\\''")
+	str = str.gsub(/[\\"]/, '\\\\\\0')
+	print "'#{str}'"
+RUBY
+}
+
+iTerm_running () {
+	ruby &lt;&lt;"RUBY"
+	    all = `ps -U "$USER" -o ucomm`
+	    split = all.split("\n")
+	    if split.find { |cmd| 'iTerm' == cmd.strip }
+	        STDOUT.write 0
+	    else
+	        STDOUT.write 1
+	    end
+RUBY
+}
+
+if [ "$TP" == iTerm ] || [ $(iTerm_running) == 0 ]; then
+	osascript &lt;&lt;END
+	    tell application "iTerm"
+	        activate
+	        tell the current terminal            
+	            tell (launch session "TextMate")
+	                write text "clear; cd $(esc "${TM_DIRECTORY}"); $(esc "${TPY}") $(esc "${TM_FILEPATH}"); rm -f $(esc "${TM_TMPFILE}")"
+	            end tell
+	        end tell
+	    end tell
+END
+else
+	osascript &lt;&lt;- APPLESCRIPT
+		tell app "Terminal"
+		    launch
+		    activate
+		    do script "clear; cd $(esc "${TM_DIRECTORY}"); $(esc "${TPY}") $(esc "${TM_FILEPATH}"); rm -f $(esc "${TM_TMPFILE}")"
+		    set position of first window to { 100, 100 }
+		end tell
+APPLESCRIPT
+fi</string>
+	<key>input</key>
+	<string>document</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Correr código (Terminal)</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
+	<string>discard</string>
+	<key>scope</key>
+	<string>source.latino</string>
+	<key>semanticClass</key>
+	<string>process.external.run.latino</string>
+	<key>uuid</key>
+	<string>D2BDD179-E9F8-46AA-94ED-EC14887AFB09</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

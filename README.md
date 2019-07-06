@@ -47,6 +47,14 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 <div class="separator" style="clear: both; text-align: center;">
 <img border="0" data-original-height="800" data-original-width="1280" height="400" src="https://1.bp.blogspot.com/-uXU6g-UsDuw/W5XUx5vt4CI/AAAAAAAAEPU/3cFcygB504oU4ZB4P-Cm61BVQB8JUvO5ACPcBGAYYCw/s640/listo.png" width="640" /></div>
 
+# Funciones
+
+---
+| Acción         | Función                                                                                   |
+|----------------|-------------------------------------------------------------------------------------------|
+| Ctrl + R       | Ejecuta el código de Latino en la terminal (*Requiere primero guardar el archivo)         |
+
+
 # Fargmentos de código (snippets)
 En TextMate para usar los snippets, escribimos el desencadenador deseado y presionamos TAB.
 
