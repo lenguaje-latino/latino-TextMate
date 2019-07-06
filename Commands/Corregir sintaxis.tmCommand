@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby18
+
+require ENV['TM_SUPPORT_PATH'] + '/lib/textmate'
+
+puts "using ${TM_LATINO:-latino}"
+result = `"${TM_LATINO:-latino}" -p - 2&gt;&amp;1`
+puts result
+
+regexp = /^latino: stdin:(\d+):/
+
+if result =~ regexp
+  TextMate.go_to :line =&gt; $1
+else
+  puts "Syntax OK"
+end
+</string>
+	<key>input</key>
+	<string>document</string>
+	<key>keyEquivalent</key>
+	<string>@C</string>
+	<key>name</key>
+	<string>Corregir sintaxis</string>
+	<key>outputLocation</key>
+	<string>toolTip</string>
+	<key>scope</key>
+	<string>source.lat</string>
+	<key>uuid</key>
+	<string>8617332F-F38A-485F-B981-92F2FFBB9D16</string>
+</dict>
+</plist>
