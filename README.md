@@ -1,6 +1,6 @@
 # Latino para TextMate
 # Requerimientos
-Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"
+Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"<br/>
 Link hacia el repositorio oficial de Latino [aquí](https://github.com/lenguaje-latino/Latino)
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
