@@ -1,6 +1,7 @@
 # Latino para TextMate
 # Requerimientos
 Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"
+Link hacia el repositorio oficial de Latino [aquí](https://github.com/lenguaje-latino/Latino)
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
 # Instalación
@@ -51,7 +52,6 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 
 # Funciones
 
----
 | Acción         | Función                                                                                   |
 |----------------|-------------------------------------------------------------------------------------------|
 | Ctrl + R       | Ejecuta el código de Latino en la terminal (*Requiere primero guardar el archivo)         |
@@ -60,7 +60,6 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 # Fargmentos de código (snippets)
 En TextMate para usar los snippets, escribimos el desencadenador deseado y presionamos TAB.
 
----
 | Desencadenador | Nombre                                  | codigo                                          |
 |----------------|-----------------------------------------|-------------------------------------------------|
 | si             | si condicional                          | si condicion #codigo fin                        |
@@ -77,5 +76,4 @@ En TextMate para usar los snippets, escribimos el desencadenador deseado y presi
 | inc            | incluir                                 | incluir "modulo"                                |
 
 # License
-
-[MIT](https://github.com/MelvinG24/Latino-TextMate/blob/master/LICENSE)
+Licenciado bajo la licencia [MIT](https://github.com/MelvinG24/Latino-TextMate/blob/master/LICENSE)
