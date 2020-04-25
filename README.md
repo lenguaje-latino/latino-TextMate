@@ -1,4 +1,7 @@
 # Latino para TextMate
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/MelvinG24/latino-textmate)
+![GitHub](https://img.shields.io/github/license/MelvinG24/latino-textmate)
+
 # Requerimientos
 Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"<br/>
 Link hacia el repositorio oficial de Latino [aquí](https://github.com/lenguaje-latino/Latino)
