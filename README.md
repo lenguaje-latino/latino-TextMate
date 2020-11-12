@@ -8,6 +8,11 @@ Link hacia el repositorio oficial de Latino [aquí](https://github.com/lenguaje-
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
 # Instalación
+## Instalación por terminal
+Para instalar el Bundle desde la terminal en Mac estos son los pasos a seguir:
+* cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
+* git clone git://github.com/MelvinG24/Latino-TextMate.git "Latino.tmbundle"
+## Instalación manual
 Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir una vez tengamos el programa abierto:
 
 * Pasaremos a descargar el repositorio de latino.tmbundle
