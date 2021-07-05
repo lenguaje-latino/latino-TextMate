@@ -1,9 +1,18 @@
 # Latino para TextMate
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/MelvinG24/latino-textmate)
+![GitHub](https://img.shields.io/github/license/MelvinG24/latino-textmate)
+
 # Requerimientos
-Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"
+Se necesita tener Latino instalado para la función de "Ejecutar en la Terminal"<br/>
+Link hacia el repositorio oficial de Latino [aquí](https://github.com/lenguaje-latino/Latino)
 # Documentación Latino
 Para aprender más sobre este maravilloso lenguaje de programación llamado Latino, puedes visitar la documentación en el siguiente enlace: https://manuallatino.blogspot.com
 # Instalación
+## Instalación por terminal
+Para instalar el Bundle desde la terminal en Mac estos son los pasos a seguir:
+* cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
+* git clone git://github.com/MelvinG24/Latino-TextMate.git "Latino.tmbundle"
+## Instalación manual
 Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir una vez tengamos el programa abierto:
 
 * Pasaremos a descargar el repositorio de latino.tmbundle
@@ -51,7 +60,6 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 
 # Funciones
 
----
 | Acción         | Función                                                                                   |
 |----------------|-------------------------------------------------------------------------------------------|
 | Ctrl + R       | Ejecuta el código de Latino en la terminal (*Requiere primero guardar el archivo)         |
@@ -60,7 +68,6 @@ Para poder usar la sintaxis de Latino en TextMate, estos son los pasos a seguir 
 # Fargmentos de código (snippets)
 En TextMate para usar los snippets, escribimos el desencadenador deseado y presionamos TAB.
 
----
 | Desencadenador | Nombre                                  | codigo                                          |
 |----------------|-----------------------------------------|-------------------------------------------------|
 | si             | si condicional                          | si condicion #codigo fin                        |
@@ -76,19 +83,5 @@ En TextMate para usar los snippets, escribimos el desencadenador deseado y presi
 | imp            | imprimir                                | imprimir("mensaje")                             |
 | inc            | incluir                                 | incluir "modulo"                                |
 
-# General
-
-* [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
-* [Commit Styleguide](http://kb.textmate.org/commit_styleguide) — _before you send a pull request_
-* [Writing Bug Reports](http://kb.textmate.org/writing_bug_reports) — _before you report an issue_
-
 # License
-
-If not otherwise specified (see below), files in this repository fall under the following license:
-
-	Permission to copy, use, modify, sell and distribute this
-	software is granted. This software is provided "as is" without
-	express or implied warranty, and with no claim as to its
-	suitability for any purpose.
-
-An exception is made for files in readable text which contain their own license information, or files where an accompanying file exists (in the same directory) with a “-license” suffix added to the base-name name of the original file, and an extension of txt, html, or similar. For example “tidy” is accompanied by “tidy-license.txt”.
+Licenciado bajo la licencia [MIT](https://github.com/MelvinG24/Latino-TextMate/blob/master/LICENSE)
